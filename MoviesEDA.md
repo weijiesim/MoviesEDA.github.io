@@ -1,15 +1,15 @@
 # Is the Movie Industry Dying?
 
 ## Introduction
-With the rise of Netflix, Disney +, Apple TV and other streaming services growing rapidly with popularity, one must wonder: Is the movie industry is dying? Are streaming services the new king of entertainment? What drives the gross earnings of movie industry?
+With the rise of Netflix, Disney +, Apple TV and other streaming services growing rapidly with popularity, one must wonder: Is the movie industry is dying? Are streaming services the new king of entertainment? And if movies are not dead, what is driving the gross earnings in the movie industry?
 
-With this questions in mind, my exploratory data project aims to:
+With these questions in mind, my exploratory data project aims to:
 
 1. Examine how the movie industry been performing in recent years;
 2. Visualize the relationship of different variables with movie gross earnings;
 3. Explore the variables that have the highest correlation with movie gross earnings
 
-The dataset from this exploratory data analysis was taken from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies). Initial hypothesis for this project are that gross revenue for movies have been declining over the years as adoption of streaming services grows; money spent on making movies `budget`, and IMDb user ratings `score` will have the highest correlation with movie gross earnings.
+The dataset from this exploratory data analysis was taken from [Kaggle](https://www.kaggle.com/danielgrijalvas/movies). Initial hypothesis for this project are that gross revenue for movies have been declining over the years as adoption of streaming services grows; money spent on making movies `budget`, and IMDb user ratings `score` will have the highest correlation with movie `gross` earnings.
 
 ## Importing libraries and data
 
